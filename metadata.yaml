@@ -1,0 +1,36 @@
+_repo: The-House-of-the-Wolfings--13-A-Tale-of-the-House-of-the-Wolfings-and-All-the-Kindreds-of-the-__2885
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morris, William
+    alias: Morris, William M.
+    birthdate: 1834
+    deathdate: 1896
+    gutenberg_agent_id: '107'
+    url: http://www.gutenberg.org/2009/agents/107
+    wikipedia: http://en.wikipedia.org/wiki/William_Morris
+description: "A Tale of the House of the Wolfings and All the Kindreds of the Mark\
+  \ is a fantasy novel by William Morris, perhaps the first modern fantasy writer\
+  \ to unite an imaginary world with the element of the supernatural, and thus the\
+  \ precursor of much of present-day fantasy literature. It was first published in\
+  \ hardcover by Reeves and Turner in 1889.\nThe book influenced J. R. R. Tolkien's\
+  \ popular The Lord of the Rings.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '2001-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2885'
+  wikidata: Q7740689
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fantasy fiction'
+- GITenberg
+title: "The House of the Wolfings\r\nA Tale of the House of the Wolfings and All the\
+  \ Kindreds of the Mark Written in Prose and in Verse"
+url: http://www.gutenberg.org/ebooks/2885
+wikipedia:
+- https://en.wikipedia.org/wiki/The_House_of_the_Wolfings
