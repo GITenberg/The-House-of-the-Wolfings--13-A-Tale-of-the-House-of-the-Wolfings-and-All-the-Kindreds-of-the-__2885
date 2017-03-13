@@ -1,5 +1,8 @@
 _repo: The-House-of-the-Wolfings--13-A-Tale-of-the-House-of-the-Wolfings-and-All-the-Kindreds-of-the-__2885
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Morris, William
@@ -15,6 +18,8 @@ description: "A Tale of the House of the Wolfings and All the Kindreds of the Ma
   \ precursor of much of present-day fantasy literature. It was first published in\
   \ hardcover by Reeves and Turner in 1889.\nThe book influenced J. R. R. Tolkien's\
   \ popular The Lord of the Rings.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2885#The-House-of-the-Wolfings--13-A-Tale-of-the-House-of-the-Wolfings-and-All-the-Kindreds-of-the-_
 gutenberg_bookshelf: Fantasy
 gutenberg_issued: '2001-10-01'
 gutenberg_type: Text
